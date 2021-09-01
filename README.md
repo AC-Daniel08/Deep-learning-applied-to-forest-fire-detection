@@ -1,6 +1,6 @@
 # Deep-learning-applied-to-forest-fire-detection
 
-El presente repositorio contiene una base de datos de imágenes térmicas, una base de datos de imágenes a color, varios scripts de algoritmos de deep learning utilizando la técnica de Transfer Learning, un scripts de clasificación por color, y scripts de una interfaz web. 
+El presente repositorio contiene una base de datos de imágenes térmicas, una base de datos de imágenes a color, varios scripts de algoritmos de deep learning utilizando la técnica de Transfer Learning, un script de clasificación por color, y scripts de una interfaz web. 
 
 Toda esta información fue utilizada en el desarrollo de un trabajo de grado en Ingeniería electrónica titulado "Diseño e Implementación de un Sistema de Detección de Conatos de Incendios en Campo Abierto Basado en Visión por Computadora y un VANT".
 
